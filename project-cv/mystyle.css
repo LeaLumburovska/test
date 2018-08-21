@@ -1,0 +1,62 @@
+div.main{
+    background-color: beige;
+                height:560px;
+                width:1000px;
+                text-align: center;
+                border: 1px solid gray;
+                margin:10px 200px;
+}
+div.vtor {
+     background-color: lightyellow;
+                    height: 350px;
+                    width: 300px;
+                    margin: 50px 10px 50px 10px;
+                    float: left;
+                    border: 2px solid lightblue;
+                    text-shadow: 1px 1px darkgreen;
+                    box-shadow: 10px 10px 5px gray;  
+}
+
+div.tret {
+    background-color: gainsboro;
+                height:150px;
+                width:350px;
+                margin: 30px 100px 0px 30px;
+                border: 1px solid lightgreen;
+                float: right;
+                box-shadow: 5px 5px 2px grey;
+                transform: rotate(5deg);
+    
+}
+div.cetvrt{
+    background-color: lightcyan;
+                height:290px;
+                width:350px;
+                margin: 30px 100px 0px 30px;
+                border: 1px solid darkblue;
+                float: right;
+                box-shadow: 5px 5px 2px grey;
+                transform: rotate(-5deg);
+}
+div.petti{
+ background-color: aliceblue;
+                height:100px;
+                width:150px;
+                text-align: center;
+                margin: 0px 0px 10px 10px;
+                border: 1px solid lightpink;
+                float: right; 
+                box-shadow: 10px 10px 5px grey;
+                font-family: 'Poppins', sans-serif;
+                transform: rotate(10deg);
+}
+div.sesti{
+ background-color: peachpuff;
+                height:100px;
+                width:150px;
+                margin: 20px 0px 200px 360px;
+                border: 1px solid red;
+                float:inherit;  
+                box-shadow: 10px 10px 5px grey;
+                transform: rotate(-10deg);
+}
